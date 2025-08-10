@@ -29,7 +29,7 @@ const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash"});
 const pool = new Pool({
   user: 'user',
   host: 'localhost',
-  database: 'vatsav',
+  database: 'kwik',
   password: 'password',
   port: 5432,
 });

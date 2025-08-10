@@ -46,7 +46,7 @@ export function DashboardHeader({ onProfileClick }: DashboardHeaderProps) {
             <User className="w-4 h-4 text-white" />
           </div>
           <div className="text-sm text-left">
-            <div className="text-foreground">Vatsav Sharma</div>
+            <div className="text-foreground">Kwik Operator</div>
             <div className="text-xs text-muted-foreground">Emergency Operator</div>
           </div>
         </button>

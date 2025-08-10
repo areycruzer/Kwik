@@ -1,7 +1,7 @@
 {
-  "name": "vatsav-server",
+  "name": "kwik-server",
   "version": "1.0.0",
-  "description": "Mock API server for the Vatsav dashboard.",
+  "description": "Mock API server for the Kwik dashboard.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

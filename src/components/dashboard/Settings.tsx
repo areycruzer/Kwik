@@ -10,7 +10,7 @@ import { useState } from 'react';
 export function Settings() {
   const [settings, setSettings] = useState({
     userProfile: {
-      name: 'Vatsav Sharma',
+      name: 'Kwik Operator',
       role: 'Emergency Operator',
       contact: '+91 9821123456',
       languages: 'Hindi, English, Marathi',
