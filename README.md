@@ -1,3 +1,5 @@
+> This is the original 2025 hackathon version of Kwik 112, kept for history. The current version is [kwik112-assemblyai](https://github.com/areycruzer/kwik112-assemblyai).
+
 # Kwik: Revolutionising India's Emergency Response
 
 **Kwik** is an **AI-powered emergency dispatch system** designed to **optimise India's 112 emergency response system**. It addresses critical challenges within the **112 Emergency Response Support System (ERSS)**, aiming to improve public safety and well-being for the citizens of India.
